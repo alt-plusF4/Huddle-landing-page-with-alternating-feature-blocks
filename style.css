@@ -57,7 +57,7 @@ li{
     font-weight: 700;
     height: 45px;
     transition: 200ms ease-in-out;
-    width: 150px;
+    width: 200px;
 }
 .button:hover{
     cursor: pointer;
@@ -67,7 +67,7 @@ li{
 
 
 #logo-main{
-    width: 20vw;
+    width: 200px;
 }
 
 .row1{
@@ -186,7 +186,7 @@ li{
 .footer-box{
     background-color: var(--Very-Dark-Cyan);
     bottom: 0;
-    height: 34rem;
+    height: 36vw;
     position: absolute;
     width: 100%;
 }
@@ -443,6 +443,12 @@ footer{
     .button{
         transform: scale(0.8);
     }
+
+    .button1{
+        height: 35px;
+        width: 38vw;
+    }
+
 
     .CTA-box{
         height: 60vw;
